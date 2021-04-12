@@ -1,2 +1,2 @@
-# unisel
+# UNISEL
 UNsupervised Instance SELection (UNISEL)
