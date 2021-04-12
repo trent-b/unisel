@@ -1,7 +1,7 @@
 # UNISEL
 UNsupervised Instance SELection (UNISEL)
 
-This repository contains the code necessary to reproduce the results reported in our paper:\
+This repository contains the code and data necessary to reproduce the results reported in our paper:\
 Trent J. Bradberry, Christopher H. Hase, LeAnna Kent, and Joel A. Góngora (2021) **Unsupervised Instance Selection with Low-Label Supervised Learning for Outlier Detection**
 
 ## Abstract
