@@ -2,8 +2,8 @@
 UNsupervised Instance SELection (UNISEL)
 
 This repository contains the code and data necessary to reproduce the results reported in our paper\
-**Unsupervised Instance Selection with Low-Label, Supervised Learning for Outlier Detection** \
-Trent J. Bradberry, Christopher H. Hase, LeAnna Kent, and Joel A. Góngora (2021)
+[**Unsupervised Instance Selection with Low-Label, Supervised Learning for Outlier Detection** \
+Trent J. Bradberry, Christopher H. Hase, LeAnna Kent, and Joel A. Góngora (2021)](https://arxiv.org/abs/2104.12837)
 
 ## Abstract
 The laborious process of labeling data often bottlenecks projects that aim to leverage the power of supervised machine learning. Active Learning (AL) has been established as
